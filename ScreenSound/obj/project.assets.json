@@ -1112,6 +1112,16 @@
             "rid": "win"
           }
         }
+      },
+      "ScreenSound.Shared.Modelos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/ScreenSound.Shared.Modelos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ScreenSound.Shared.Modelos.dll": {}
+        }
       }
     }
   },
@@ -3003,6 +3013,11 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "ScreenSound.Shared.Modelos/1.0.0": {
+      "type": "project",
+      "path": "../ScreenSound.Shared.Modelos/ScreenSound.Shared.Modelos.csproj",
+      "msbuildProject": "../ScreenSound.Shared.Modelos/ScreenSound.Shared.Modelos.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3010,7 +3025,8 @@
       "Microsoft.Data.SqlClient >= 5.1.2",
       "Microsoft.EntityFrameworkCore.Proxies >= 7.0.14",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.14",
-      "Microsoft.EntityFrameworkCore.Tools >= 7.0.14"
+      "Microsoft.EntityFrameworkCore.Tools >= 7.0.14",
+      "ScreenSound.Shared.Modelos >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -3045,7 +3061,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\wesley\\Source\\Repos\\API-ScrenSound\\ScreenSound.Shared.Modelos\\ScreenSound.Shared.Modelos.csproj": {
+              "projectPath": "C:\\Users\\wesley\\Source\\Repos\\API-ScrenSound\\ScreenSound.Shared.Modelos\\ScreenSound.Shared.Modelos.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
