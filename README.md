@@ -1,4 +1,7 @@
 # API-ScrenSound
+O que que são APIS
+https://aws.amazon.com/pt/what-is/api/
+
 Esse repositório é para continução do curso de persistencia no banco de dados do repositório: https://github.com/WesleySchuab/csharpWeb-screensound-curso1. Para seguir esse projeto precisa ter o Visual Studio e instalar os pacotes mencionados no repositório anterior. Caso não tenha o banco de dados na sua máquina após clonar esse execute os seguintes passos: Abra o projeto inicial no Visual Studio;
 
 No menu superior, vá em Ferramentas, encontre a opção Gerenciador de Pacotes do NuGet e, em sequência, abra o Console do Gerenciador de Pacotes;
