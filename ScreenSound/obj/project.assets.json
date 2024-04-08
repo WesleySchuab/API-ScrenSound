@@ -1113,6 +1113,22 @@
           }
         }
       },
+      "ScreenSound.Shared.Dados/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Microsoft.Data.SqlClient": "5.1.2",
+          "Microsoft.EntityFrameworkCore.Proxies": "7.0.14",
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.14",
+          "ScreenSound.Shared.Modelos": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ScreenSound.Shared.Dados.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ScreenSound.Shared.Dados.dll": {}
+        }
+      },
       "ScreenSound.Shared.Modelos/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -3014,6 +3030,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "ScreenSound.Shared.Dados/1.0.0": {
+      "type": "project",
+      "path": "../ScreenSound.Shared.Dados/ScreenSound.Shared.Dados.csproj",
+      "msbuildProject": "../ScreenSound.Shared.Dados/ScreenSound.Shared.Dados.csproj"
+    },
     "ScreenSound.Shared.Modelos/1.0.0": {
       "type": "project",
       "path": "../ScreenSound.Shared.Modelos/ScreenSound.Shared.Modelos.csproj",
@@ -3026,6 +3047,7 @@
       "Microsoft.EntityFrameworkCore.Proxies >= 7.0.14",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.14",
       "Microsoft.EntityFrameworkCore.Tools >= 7.0.14",
+      "ScreenSound.Shared.Dados >= 1.0.0",
       "ScreenSound.Shared.Modelos >= 1.0.0"
     ]
   },
@@ -3062,6 +3084,9 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
+            "C:\\Users\\wesley\\source\\repos\\API-ScrenSound\\ScreenSound.Shared.Dados\\ScreenSound.Shared.Dados.csproj": {
+              "projectPath": "C:\\Users\\wesley\\source\\repos\\API-ScrenSound\\ScreenSound.Shared.Dados\\ScreenSound.Shared.Dados.csproj"
+            },
             "C:\\Users\\wesley\\source\\repos\\API-ScrenSound\\ScreenSound.Shared.Modelos\\ScreenSound.Shared.Modelos.csproj": {
               "projectPath": "C:\\Users\\wesley\\source\\repos\\API-ScrenSound\\ScreenSound.Shared.Modelos\\ScreenSound.Shared.Modelos.csproj"
             }
