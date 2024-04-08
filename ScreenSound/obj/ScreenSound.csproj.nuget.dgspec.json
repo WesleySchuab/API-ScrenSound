@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wesley\\Source\\Repos\\API-ScrenSound\\ScreenSound\\ScreenSound.csproj": {}
+    "C:\\Users\\wesley\\source\\repos\\API-ScrenSound\\ScreenSound\\ScreenSound.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wesley\\Source\\Repos\\API-ScrenSound\\ScreenSound.Shared.Modelos\\ScreenSound.Shared.Modelos.csproj": {
+    "C:\\Users\\wesley\\source\\repos\\API-ScrenSound\\ScreenSound.Shared.Modelos\\ScreenSound.Shared.Modelos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wesley\\Source\\Repos\\API-ScrenSound\\ScreenSound.Shared.Modelos\\ScreenSound.Shared.Modelos.csproj",
+        "projectUniqueName": "C:\\Users\\wesley\\source\\repos\\API-ScrenSound\\ScreenSound.Shared.Modelos\\ScreenSound.Shared.Modelos.csproj",
         "projectName": "ScreenSound.Shared.Modelos",
-        "projectPath": "C:\\Users\\wesley\\Source\\Repos\\API-ScrenSound\\ScreenSound.Shared.Modelos\\ScreenSound.Shared.Modelos.csproj",
+        "projectPath": "C:\\Users\\wesley\\source\\repos\\API-ScrenSound\\ScreenSound.Shared.Modelos\\ScreenSound.Shared.Modelos.csproj",
         "packagesPath": "C:\\Users\\wesley\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\wesley\\Source\\Repos\\API-ScrenSound\\ScreenSound.Shared.Modelos\\obj\\",
         "projectStyle": "PackageReference",
@@ -69,12 +69,12 @@
         }
       }
     },
-    "C:\\Users\\wesley\\Source\\Repos\\API-ScrenSound\\ScreenSound\\ScreenSound.csproj": {
+    "C:\\Users\\wesley\\source\\repos\\API-ScrenSound\\ScreenSound\\ScreenSound.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wesley\\Source\\Repos\\API-ScrenSound\\ScreenSound\\ScreenSound.csproj",
+        "projectUniqueName": "C:\\Users\\wesley\\source\\repos\\API-ScrenSound\\ScreenSound\\ScreenSound.csproj",
         "projectName": "ScreenSound",
-        "projectPath": "C:\\Users\\wesley\\Source\\Repos\\API-ScrenSound\\ScreenSound\\ScreenSound.csproj",
+        "projectPath": "C:\\Users\\wesley\\source\\repos\\API-ScrenSound\\ScreenSound\\ScreenSound.csproj",
         "packagesPath": "C:\\Users\\wesley\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\wesley\\Source\\Repos\\API-ScrenSound\\ScreenSound\\obj\\",
         "projectStyle": "PackageReference",
@@ -98,8 +98,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\wesley\\Source\\Repos\\API-ScrenSound\\ScreenSound.Shared.Modelos\\ScreenSound.Shared.Modelos.csproj": {
-                "projectPath": "C:\\Users\\wesley\\Source\\Repos\\API-ScrenSound\\ScreenSound.Shared.Modelos\\ScreenSound.Shared.Modelos.csproj"
+              "C:\\Users\\wesley\\source\\repos\\API-ScrenSound\\ScreenSound.Shared.Modelos\\ScreenSound.Shared.Modelos.csproj": {
+                "projectPath": "C:\\Users\\wesley\\source\\repos\\API-ScrenSound\\ScreenSound.Shared.Modelos\\ScreenSound.Shared.Modelos.csproj"
               }
             }
           }

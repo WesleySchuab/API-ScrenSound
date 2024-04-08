@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\wesley\\source\\repos\\API-ScrenSound\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C309B799-0076-41C0-9BBA-608113B26F40}|ScreenSound.Shared.Modelos\\ScreenSound.Shared.Modelos.csproj|c:\\users\\wesley\\source\\repos\\api-scrensound\\screensound.shared.modelos\\screensound.shared.modelos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C309B799-0076-41C0-9BBA-608113B26F40}|ScreenSound.Shared.Modelos\\ScreenSound.Shared.Modelos.csproj|solutionrelative:screensound.shared.modelos\\screensound.shared.modelos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\wesley\\source\\repos\\api-scrensound\\screensound\\screensound.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\screensound.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{F9B13969-3B2F-42C7-A85A-DA352EF0AFBD}|ScreenSound.Shared.Dados\\ScreenSound.Shared.Dados.csproj|c:\\users\\wesley\\source\\repos\\api-scrensound\\screensound.shared.dados\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9B13969-3B2F-42C7-A85A-DA352EF0AFBD}|ScreenSound.Shared.Dados\\ScreenSound.Shared.Dados.csproj|solutionrelative:screensound.shared.dados\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -33,33 +29,16 @@
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ScreenSound.Shared.Modelos",
-              "DocumentMoniker": "C:\\Users\\wesley\\Source\\Repos\\API-ScrenSound\\ScreenSound.Shared.Modelos\\ScreenSound.Shared.Modelos.csproj",
-              "RelativeDocumentMoniker": "ScreenSound.Shared.Modelos\\ScreenSound.Shared.Modelos.csproj",
-              "ToolTip": "C:\\Users\\wesley\\Source\\Repos\\API-ScrenSound\\ScreenSound.Shared.Modelos\\ScreenSound.Shared.Modelos.csproj",
-              "RelativeToolTip": "ScreenSound.Shared.Modelos\\ScreenSound.Shared.Modelos.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-06T22:16:29.484Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ScreenSound",
-              "DocumentMoniker": "C:\\Users\\wesley\\Source\\Repos\\API-ScrenSound\\ScreenSound\\ScreenSound.csproj",
-              "RelativeDocumentMoniker": "ScreenSound\\ScreenSound.csproj",
-              "ToolTip": "C:\\Users\\wesley\\Source\\Repos\\API-ScrenSound\\ScreenSound\\ScreenSound.csproj",
-              "RelativeToolTip": "ScreenSound\\ScreenSound.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-06T22:33:19.249Z",
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\wesley\\source\\repos\\API-ScrenSound\\ScreenSound.Shared.Dados\\Class1.cs",
+              "RelativeDocumentMoniker": "ScreenSound.Shared.Dados\\Class1.cs",
+              "ToolTip": "C:\\Users\\wesley\\source\\repos\\API-ScrenSound\\ScreenSound.Shared.Dados\\Class1.cs",
+              "RelativeToolTip": "ScreenSound.Shared.Dados\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-08T11:06:38.83Z",
               "EditorCaption": ""
             }
           ]

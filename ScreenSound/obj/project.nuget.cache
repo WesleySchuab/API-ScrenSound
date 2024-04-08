@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cqVHaENXffM851y5i75PsPMHdBOiQRQc1lsE1Hu2WwIIJIqOagYLbqnzeYv8Z54ZZXcn8Yr7OKF7l0HJX5oH1g==",
+  "dgSpecHash": "Ttqd558X9vNTManB7KcRU1m18j+RnB7yTdnJksEFQwRip9jBE0I0SZORQ+d8/fF3RWLO/0uPD6h7FmvKi5+/fg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\wesley\\Source\\Repos\\API-ScrenSound\\ScreenSound\\ScreenSound.csproj",
+  "projectFilePath": "C:\\Users\\wesley\\source\\repos\\API-ScrenSound\\ScreenSound\\ScreenSound.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wesley\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\wesley\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

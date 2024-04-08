@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wesley\\source\\repos\\API-ScrenSound\\ScreenSound.Shared.Modelos\\ScreenSound.Shared.Modelos.csproj": {}
+    "C:\\Users\\wesley\\source\\repos\\API-ScrenSound\\ScreenSound.Shared.Dados\\ScreenSound.Shared.Dados.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wesley\\source\\repos\\API-ScrenSound\\ScreenSound.Shared.Modelos\\ScreenSound.Shared.Modelos.csproj": {
+    "C:\\Users\\wesley\\source\\repos\\API-ScrenSound\\ScreenSound.Shared.Dados\\ScreenSound.Shared.Dados.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wesley\\source\\repos\\API-ScrenSound\\ScreenSound.Shared.Modelos\\ScreenSound.Shared.Modelos.csproj",
-        "projectName": "ScreenSound.Shared.Modelos",
-        "projectPath": "C:\\Users\\wesley\\source\\repos\\API-ScrenSound\\ScreenSound.Shared.Modelos\\ScreenSound.Shared.Modelos.csproj",
+        "projectUniqueName": "C:\\Users\\wesley\\source\\repos\\API-ScrenSound\\ScreenSound.Shared.Dados\\ScreenSound.Shared.Dados.csproj",
+        "projectName": "ScreenSound.Shared.Dados",
+        "projectPath": "C:\\Users\\wesley\\source\\repos\\API-ScrenSound\\ScreenSound.Shared.Dados\\ScreenSound.Shared.Dados.csproj",
         "packagesPath": "C:\\Users\\wesley\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wesley\\Source\\Repos\\API-ScrenSound\\ScreenSound.Shared.Modelos\\obj\\",
+        "outputPath": "C:\\Users\\wesley\\source\\repos\\API-ScrenSound\\ScreenSound.Shared.Dados\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
