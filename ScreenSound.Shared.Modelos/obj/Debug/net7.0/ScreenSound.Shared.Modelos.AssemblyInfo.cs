@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScreenSound.Shared.Modelos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+21aaf2284e504d6f931594912b82b09eabf8026a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee9b4712ce2e2a3ad4cde7918bbe2770e5a1fade")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScreenSound.Shared.Modelos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScreenSound.Shared.Modelos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

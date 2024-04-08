@@ -3040,7 +3040,7 @@
       "projectName": "ScreenSound",
       "projectPath": "C:\\Users\\wesley\\source\\repos\\API-ScrenSound\\ScreenSound\\ScreenSound.csproj",
       "packagesPath": "C:\\Users\\wesley\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wesley\\Source\\Repos\\API-ScrenSound\\ScreenSound\\obj\\",
+      "outputPath": "C:\\Users\\wesley\\source\\repos\\API-ScrenSound\\ScreenSound\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

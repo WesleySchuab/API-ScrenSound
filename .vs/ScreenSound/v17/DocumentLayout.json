@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\wesley\\source\\repos\\API-ScrenSound\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F9B13969-3B2F-42C7-A85A-DA352EF0AFBD}|ScreenSound.Shared.Dados\\ScreenSound.Shared.Dados.csproj|c:\\users\\wesley\\source\\repos\\api-scrensound\\screensound.shared.dados\\screensound.shared.dados.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F9B13969-3B2F-42C7-A85A-DA352EF0AFBD}|ScreenSound.Shared.Dados\\ScreenSound.Shared.Dados.csproj|solutionrelative:screensound.shared.dados\\screensound.shared.dados.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|c:\\users\\wesley\\source\\repos\\api-scrensound\\screensound\\screensound.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A9CCE41C-6657-42BF-AED4-F3F578033037}|ScreenSound\\ScreenSound.csproj|solutionrelative:screensound\\screensound.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F9B13969-3B2F-42C7-A85A-DA352EF0AFBD}|ScreenSound.Shared.Dados\\ScreenSound.Shared.Dados.csproj|c:\\users\\wesley\\source\\repos\\api-scrensound\\screensound.shared.dados\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9B13969-3B2F-42C7-A85A-DA352EF0AFBD}|ScreenSound.Shared.Dados\\ScreenSound.Shared.Dados.csproj|solutionrelative:screensound.shared.dados\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScreenSound",
+              "DocumentMoniker": "C:\\Users\\wesley\\source\\repos\\API-ScrenSound\\ScreenSound\\ScreenSound.csproj",
+              "RelativeDocumentMoniker": "ScreenSound\\ScreenSound.csproj",
+              "ToolTip": "C:\\Users\\wesley\\source\\repos\\API-ScrenSound\\ScreenSound\\ScreenSound.csproj",
+              "RelativeToolTip": "ScreenSound\\ScreenSound.csproj",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-08T11:17:35.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScreenSound.Shared.Dados",
+              "DocumentMoniker": "C:\\Users\\wesley\\source\\repos\\API-ScrenSound\\ScreenSound.Shared.Dados\\ScreenSound.Shared.Dados.csproj",
+              "RelativeDocumentMoniker": "ScreenSound.Shared.Dados\\ScreenSound.Shared.Dados.csproj",
+              "ToolTip": "C:\\Users\\wesley\\source\\repos\\API-ScrenSound\\ScreenSound.Shared.Dados\\ScreenSound.Shared.Dados.csproj",
+              "RelativeToolTip": "ScreenSound.Shared.Dados\\ScreenSound.Shared.Dados.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-08T11:10:56.064Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -30,7 +64,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\wesley\\source\\repos\\API-ScrenSound\\ScreenSound.Shared.Dados\\Class1.cs",
               "RelativeDocumentMoniker": "ScreenSound.Shared.Dados\\Class1.cs",
